@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.fcs</groupId>
-	<artifactId>spring-appengine-skeleton</artifactId>
+	<artifactId>spring-boot-gcp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>spring-boot-gcp-template</name>
+	<name>spring-boot-gcp</name>
 	<description>Spring boot gcp template</description>
 
 	<parent>
